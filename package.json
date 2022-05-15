@@ -1,0 +1,26 @@
+{
+  "name": "webpack-plugin-remvoe-antd-style",
+  "description": "删除指定包中antd的样式依赖",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "postcss": "^8.4.13"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/JSupot/webpack-plugin-remvoe-antd-style.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "antd"
+  ],
+  "author": "Jsupot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSupot/webpack-plugin-remvoe-antd-style/issues"
+  },
+  "homepage": "https://github.com/JSupot/webpack-plugin-remvoe-antd-style#readme"
+}
